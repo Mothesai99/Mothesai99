@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*oeK4EpsQx8S2h5D-J-x-BQ.gif)]
 
 
 #### 💫 I'm Mothe Saikrishna from karimnagar Telangana state and i had completed my B.tech in Electronics and Communication Enginerring College and my hobbies are watching movies,listening music and playing games my strength is self motivated,hardworking
