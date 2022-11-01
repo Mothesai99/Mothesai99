@@ -17,7 +17,7 @@ h1 align="center">Hi 👋, I'm Mothe Saikrishna</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
 
-- 🌱 I’m currently learning **Python,machine learning,sql,statistics,Data visulizatation**
+- 🌱 I’m currently learning **Python,machine learning,sql,statistics,Data visualization**
 
 - 📫 How to reach me **mothesai99@gmail.com**
 
